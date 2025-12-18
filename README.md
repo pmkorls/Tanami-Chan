@@ -5,7 +5,7 @@
 <h1 align="center">✨ Tanami-chan ✨</h1>
 
 <p align="center">
-  <em>Your adorable AI Shiba companion that talks, thinks, and vibes with you</em>
+  <em>Your adorable AI Shiba companion that talks, thinks, and vibes with you<br>integrated with open souls frameworks</em>
 </p>
 
 <p align="center">
